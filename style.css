@@ -13,8 +13,10 @@ a{
 }
 
 #HOME{
-    background-image: url(C:Users\stagiaire\Documents\GitHub\projet_CSS_2\projet_css_2\advertising-7885310_1280.jpg)
-    ;
+    background-image: url(advertising-7885310_1280.jpg)    ;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 3000px;
    
     
 }
