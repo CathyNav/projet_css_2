@@ -1,11 +1,20 @@
-header{
+.header{
     display: flex;
-  
-  
-
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+  }
+a{
+    text-decoration: none;
+    color:rgb(235, 93, 30);
+    margin: 20px 50px 20px 50px;
+    text-align: right;
 }
 
-nav{
-    color:rgb(235, 93, 30);
-    text-decoration: none;
+#HOME{
+    background-image: url(C:Users\stagiaire\Documents\GitHub\projet_CSS_2\projet_css_2\advertising-7885310_1280.jpg)
+    ;
+   
+    
 }
